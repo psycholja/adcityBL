@@ -1,0 +1,41 @@
+﻿body {
+    font-family:sans-serif;
+}
+
+.site_menu {
+      
+    height: 98px;
+    margin-top: 80px;
+    background: #EBE2E6;
+    border: 1px solid #EBE2E6;
+    box-sizing: border-box;
+    margin-right:150px;
+}
+.menu_element {
+    text-transform: uppercase;
+    margin-left:55px;
+    display:inline-block;
+
+}
+.menu-elements {
+    margin-top: 40px;
+    font-family: sans-serif;
+    color: #655C5C;
+}
+a {
+    color: inherit;
+    text-decoration: inherit;
+    
+}
+h1 {
+    font-family: sans-serif;
+    color: #655C5C;
+    margin-top: 60px;
+    margin-left: 150px
+}
+h2 {
+    font-family: sans-serif;
+    color: #655C5C;
+    margin-top: 60px;
+    margin-left: 20px;
+}
